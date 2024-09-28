@@ -1,0 +1,1 @@
+const kCategoryCardImageSize = 100.0;

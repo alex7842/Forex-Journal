@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "245020719482",
+    "project_id": "fx-journal-99b8b",
+    "storage_bucket": "fx-journal-99b8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245020719482:android:cb9b10611f83bf5acbbec3",
+        "android_client_info": {
+          "package_name": "com.example.fx_journal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWE430mRK4oApYTYM01sBNwtT0IKv2afY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
